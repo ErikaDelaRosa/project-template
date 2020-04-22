@@ -18,6 +18,7 @@ completeList.forEach(({style: item},i) => {
 });
 
  let thingsToDo = document.querySelectorAll(".result");
+ 
 result.forEach(({style: item}){
     item.backgroundColor = colorGen();
     item.height = "10rem";
