@@ -2,6 +2,6 @@ dist/
 
 src/styles/
 
-node_modules/
+node_modules/ 
 
 #this is comment :) 
